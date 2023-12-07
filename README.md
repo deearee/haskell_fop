@@ -1,0 +1,1 @@
+Functional data structures and algorithms based on the book "The Fun of Programming". WIP
